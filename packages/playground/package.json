@@ -1,0 +1,17 @@
+{
+  "name": "@react-overlay-talk/playground",
+  "description": "Easy to Use React Overlay UI Kit : Playground",
+  "author": "ChanLee_KR",
+  "keywords": [
+    "react",
+    "overlay-ui-kit",
+    "dialog",
+    "prompt",
+    "confirm",
+    "alert",
+    "toast",
+    "toast-ui"
+  ],
+  "license": "BSD-3-Clause",
+  "version": "1.0.0"
+}

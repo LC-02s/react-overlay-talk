@@ -1,0 +1,11 @@
+{
+  "name": "@react-overlay-talk/core",
+  "description": "Easy to Use React Overlay UI Kit : Core Package",
+  "author": "ChanLee_KR",
+  "keywords": [
+    "react",
+    "overlay-ui-kit"
+  ],
+  "license": "BSD-3-Clause",
+  "version": "1.0.0"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@react-overlay-talk/toast",
+  "description": "Easy to Use React Overlay UI Kit : Toast UI Package",
+  "author": "ChanLee_KR",
+  "keywords": [
+    "react",
+    "overlay-ui-kit",
+    "toast",
+    "toast-ui"
+  ],
+  "license": "BSD-3-Clause",
+  "version": "1.0.0"
+}
