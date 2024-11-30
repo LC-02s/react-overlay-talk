@@ -11,7 +11,10 @@
   "type": "module",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
-    "prepare": "husky"
+    "prepare": "husky",
+    "playground:dev": "pnpm -F @react-overlay-talk/playground dev",
+    "playground:build": "pnpm -F @react-overlay-talk/playground build",
+    "playground:lint": "pnpm -F @react-overlay-talk/playground lint"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
